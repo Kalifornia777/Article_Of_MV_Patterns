@@ -1,0 +1,10 @@
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\Article OOP\MVP\MVP\bin\Debug\lab7.exe.config
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\Article OOP\MVP\MVP\bin\Debug\lab7.exe
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\Article OOP\MVP\MVP\bin\Debug\lab7.pdb
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\Article OOP\MVP\MVP\obj\Debug\MVP.csproj.AssemblyReference.cache
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\Article OOP\MVP\MVP\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\Article OOP\MVP\MVP\obj\Debug\MPC.ViewWinForms.resources
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\Article OOP\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.cache
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\Article OOP\MVP\MVP\obj\Debug\MVP.csproj.CoreCompileInputs.cache
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\Article OOP\MVP\MVP\obj\Debug\lab7.exe
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\Article OOP\MVP\MVP\obj\Debug\lab7.pdb

@@ -1,0 +1,10 @@
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\OOP\7 lab\others\lab7_OOP-master\lab7_OOP-master\lab7\bin\Debug\lab7.exe.config
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\OOP\7 lab\others\lab7_OOP-master\lab7_OOP-master\lab7\bin\Debug\lab7.exe
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\OOP\7 lab\others\lab7_OOP-master\lab7_OOP-master\lab7\bin\Debug\lab7.pdb
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\OOP\7 lab\others\lab7_OOP-master\lab7_OOP-master\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\OOP\7 lab\others\lab7_OOP-master\lab7_OOP-master\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\OOP\7 lab\others\lab7_OOP-master\lab7_OOP-master\lab7\obj\Debug\lab7.View.resources
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\OOP\7 lab\others\lab7_OOP-master\lab7_OOP-master\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\OOP\7 lab\others\lab7_OOP-master\lab7_OOP-master\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\OOP\7 lab\others\lab7_OOP-master\lab7_OOP-master\lab7\obj\Debug\lab7.exe
+C:\Users\krlls\Desktop\23VP2\2-Course\2-Term\OOP\7 lab\others\lab7_OOP-master\lab7_OOP-master\lab7\obj\Debug\lab7.pdb
